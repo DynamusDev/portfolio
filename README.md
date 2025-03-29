@@ -1,4 +1,4 @@
-# John Moura - Full Stack Developer 👨‍💻
+# Alê Nascimento - Front-end Engineer 👨‍💻
 
 <img src="./public/images/landing.png">
 
